@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham Das</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <img align="right" alt="coding" width="450" src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611e977gp9pnvv89ztt4mqhmwcdf1sem4hdp5ahx6ov&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
